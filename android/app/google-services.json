@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736786053608",
+    "project_id": "sehar-posts-app-249617",
+    "storage_bucket": "sehar-posts-app-249617.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736786053608:android:6c91299ad19925410e0c5d",
+        "android_client_info": {
+          "package_name": "com.example.posts_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdmTX7u4H1942ESIxNLyUkNjZr28PIx0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
